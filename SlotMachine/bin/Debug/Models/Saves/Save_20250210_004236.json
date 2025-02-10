@@ -1,0 +1,17 @@
+{
+  "Balance": 790,
+  "CurrentBet": 100,
+  "SpinResult": [],
+  "PayoutTable": {
+    "AAA": 1000,
+    "BBB": 500,
+    "CCC": 100,
+    "DDD": 10
+  },
+  "SymbolWeights": {
+    "D": 50,
+    "C": 30,
+    "B": 15,
+    "A": 5
+  }
+}
